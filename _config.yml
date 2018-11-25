@@ -14,7 +14,7 @@ name: Callum's Blog
 description: Someone on the internet
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0895%2F0864%2Fproducts%2F42-16943177_1024x1024.jpeg%3Fv%3D1451817409&imgrefurl=https%3A%2F%2Fwww.magnoliabox.com%2Fproducts%2Fdog-in-front-of-laptop-at-desk-42-16943177&docid=GRQKegvmG04CxM&tbnid=lCF4iSe3DFjGRM%3A&vet=10ahUKEwiUvPCnx-_eAhUOmYsKHRG7DgQQMwhDKAQwBA..i&w=1024&h=683&bih=922&biw=1280&q=dog%20with%20laptop&ved=0ahUKEwiUvPCnx-_eAhUOmYsKHRG7DgQQMwhDKAQwBA&iact=mrc&uact=8
+avatar: 
 
 #
 # Flags below are optional
@@ -23,10 +23,10 @@ avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: msdosslip@gmail.com
   facebook:
   flickr:
-  github: slipdip123/
+  github: slipdip123
   instagram:
   linkedin:
   pinterest:
